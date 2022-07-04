@@ -35,7 +35,7 @@
     width: 50%;
 }
 .intro{
-    background-image: url("/shapes/7.png");
+    background-image: url("shapes/7.png");
     background-repeat: no-repeat;
 }
 .intro_details{
