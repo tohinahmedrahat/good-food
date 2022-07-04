@@ -1,0 +1,148 @@
+.display_flex{
+    display: flex;
+}
+.header_section{
+    width: 100%;
+}
+.header_details{
+    width: 40%;
+    margin-top: 150px;
+   margin-right: 20px;
+}
+
+.header_details h1{
+    color: #575757;
+    font-size: 60px;
+    font-weight: bold;
+}
+.header_details p{
+    color: #828282;
+    font-size: 20px;
+}
+.important{
+    color:#FBA24F;
+}
+.order{
+    background-image: linear-gradient(90deg,#FBA24F,#FF1E1E);
+    padding: 16px 24px;
+    border-radius: 25px;
+    border: none;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 400;
+}
+.header_img {
+    width: 50%;
+}
+.intro{
+    background-image: url("/shapes/7.png");
+    background-repeat: no-repeat;
+}
+.intro_details{
+    padding-top: 100px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.intro_details p{
+    font-size: 18px;
+    line-height: 32px;
+    color: #18191F;
+}
+.intro_details h3{
+    color: #707070;
+    font-size: 40px;
+}
+.intro_img{
+    padding-left: 100px;
+    padding-top: 75px;
+    
+}
+.intro_img img{
+    width: 338px;
+}
+.service_section{
+    text-align: center;
+}
+.service_section h3{
+    color: #676767;
+    font-size: 36px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.service_section > p {
+    color: #252525;
+    font-size: 18px;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+.services{
+    margin-top: 60px;
+    
+}
+.service{
+    border-radius: 30px;
+    box-shadow: 0px 8px 8px 8px rgba(128, 128, 128, 0.50);
+    width: 45%;
+    margin-left: 40px;
+}
+.service h5{
+    text-align: left;
+    margin-left: 28px;
+    color: #18191F;
+    font-weight: bolder;
+    font-size: 28px;
+    margin-bottom: 0;
+}
+.service p{
+    text-align: left;
+    margin-left: 28px;
+    padding-bottom: 20px;
+    color: #18191F;
+    font-size: 18px;
+    line-height: 30px;
+    width: 554px;
+
+}
+.service img{
+    width: 550px;
+    padding-top: 20px;
+}
+.rating {
+    width: 80%;
+    align-items: center;
+   justify-content: center;
+    margin-top: 100px;
+    margin-left: 10%;
+    border-radius: 10px;
+    box-shadow: 5px 1px 10px 5px rgb(128 128 128 / 50%);
+}
+.rating_deatils{
+    width: 30%;
+    margin-left: 90px;
+    padding-bottom: 20px;
+
+   
+}
+.rating_deatils h3{
+    font-size: 48px;
+    color: #18191F;
+    margin-bottom: 0;
+}
+.rating_deatils p{
+    color: #18191F;
+}
+.footer{
+    background-color: #0B0D17;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 15px;
+    padding-bottom: 40px;
+}
+.footer h4{
+    color: #5B5B5B;
+}
+.footer p{
+    color: #FFFFFF;
+    margin-bottom: 0;
+}
